@@ -11,4 +11,9 @@ public static class caculate
 		else
 			return b;
 	}
+	public string getMyName()
+	{
+		return "我是19网工张健.";
+	}
 }
+
